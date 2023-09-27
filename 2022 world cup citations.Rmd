@@ -1,0 +1,12 @@
+---
+title: "2022 forecast"
+author: "Daniel Bedoya"
+date: "2023-09-01"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+<https://github.com/jayb> <https://projects.fivethirtyeight.com/2022-world-cup-predictions/> Jay Boice in these links you can find the predictions of 2022 world cup, it gives predictions on every step of the world cup base in existing data.
